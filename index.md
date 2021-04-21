@@ -8,7 +8,7 @@ Nombres populares es una aplicación gratuita pero que muestra anuncios para pod
 # About
 7WStats! Will become your assistant to calculate the victory points of 7 Wonders, your favorite board game. Are you tired of wasting paper to score the scores of your 7 Wonders games? With 7WStats! You will save paper and have all your games perfectly organized without writing down the results on the score sheet.
 
-The main features, apart from being a victory point calculator for 7 wonders or even auto calculate the score of the 7 wonders scientific symbols are having all the manuals and instructions of the board game at hand, history of your games played, advanced statistics on civilizations with the most probability of victory and the most powerful tool of all: Guide and detail on how all the cards in the game work (all the 7 wonders expansions available - even Armada).
+The main features, apart from being a _victory point calculator_ for 7 wonders or even auto **calculate the score of the 7 wonders scientific symbols** are having all the manuals and instructions of the board game at hand, history of your games played, advanced statistics on civilizations with the most probability of victory and the most powerful tool of all: Guide and detail on how all the cards in the game work (all the 7 wonders expansions available - even Armada).
 
 All 7Wonders expansions are available in the scoring assistant. It supports the expansion of **Leaders**, **Cities**, **Babel**, **Wonder Pack** and even the latest expansion of the game, **7 Wonders Armada**.
 
