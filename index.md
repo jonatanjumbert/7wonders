@@ -5,24 +5,11 @@ No se recolecta ningún tipo de información, simplemente la necesaria para pode
 Nombres populares es una aplicación gratuita pero que muestra anuncios para poder pagar a los desarrolladores, corregir bugs, mejorar la app y publicar nuevas versiones con nuevas funcionalidades, así como pagar el servidor y los costes intrínsecos de la aplicación. Las donaciones son bienvenidas.
 
 
-# Acerca de la aplicación
-Tanto si estás pensando un nombre para tu bebé como si sientes curiosidad por saber cuánta gente hay en España con un nombre en concreto (entre muchas otras cosas más) está es la app que debes descargar.
+# About
+7WStats! Will become your assistant to calculate the victory points of 7 Wonders, your favorite board game. Are you tired of wasting paper to score the scores of your 7 Wonders games? With 7WStats! You will save paper and have all your games perfectly organized without writing down the results on the score sheet.
 
-Con *Nombres Populares* tendrás la mayor selección de nombres del store al alcance de tu mano. Contamos la mayor base de datos de nombres de España. Podrás elegir tu nombre favorito entre más de **50.000 opciones**. Concretamente a día de hoy contamos con **26.492 nombres de mujer y 25.783 de hombre**.
+The main features, apart from being a victory point calculator for 7 wonders or even auto calculate the score of the 7 wonders scientific symbols are having all the manuals and instructions of the board game at hand, history of your games played, advanced statistics on civilizations with the most probability of victory and the most powerful tool of all: Guide and detail on how all the cards in the game work (all the 7 wonders expansions available - even Armada).
 
-Características:
-- Lista de favoritos para que guardes los nombres que más te gustan.
-- Muchas opciones de filtrado.
-- Filtra los nombres por sexo.
-- Filtra los nombres alfabéticamente.
-- Filtra por nombres más populares
-- Filtra por nombres menos común.
-- Filtra los nombres por edad.
-- Comparte tus favoritos por e-mail, mensajería instantánea y otras aplicaciones.
-- Copia los nombres en el porta-papeles.
+All 7Wonders expansions are available in the scoring assistant. It supports the expansion of **Leaders**, **Cities**, **Babel**, **Wonder Pack** and even the latest expansion of the game, **7 Wonders Armada**.
 
-Gracias a la aplicación de *Nombres Populares* serás capaz de encontrar nombres originales para tu bebé, tanto si es niño como niña. Escoge entre miles de nombres el más bonito y adecuado para ti. De hecho, encontrarás todos los nombres actualmente en el registro civil de España en el que al menos 20 personas tengan dicho nombre.
-
-Encuentra **nombres para bebés** cuya media de edad sea la más baja posible para ponerle así un nombre absolutamente original o selecciona un nombre clásico con una media de edad más avanzada para las personas con ese nombre. ¡Para gustos colores y en *Nombres Populares* los tenemos todos!
-
-Ninguna otra aplicación te ofrecerá tantas posibilidades como esta, no lo dudes, no te defraudará :)
+The cities expansion for 7 Wonders gives you the chance to discover another aspect of the great cities of Antiquity. 27 new cards offer you brand new buildings with never before-seen effects. 3 Guilds, 6 Leaders and 2 Wonders complete this expansion. 7 Wonders Cities allows up to 8 players at once and also offers a team variant.
