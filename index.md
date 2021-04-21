@@ -1,8 +1,8 @@
 # Política de Privacidad
 
-No se recolecta ningún tipo de información, simplemente la necesaria para poder mostrar anuncios. Para preguntas, problemas o sugerencias puedes contactar con nosotros dejando un comentario en la App Store o Play Store, te contestaremos a la mayor brevedad posible.
-
-Nombres populares es una aplicación gratuita pero que muestra anuncios para poder pagar a los desarrolladores, corregir bugs, mejorar la app y publicar nuevas versiones con nuevas funcionalidades, así como pagar el servidor y los costes intrínsecos de la aplicación. Las donaciones son bienvenidas.
+No info is collected beyond needed for Analytics pourposes like (Coarse Location, device ID, purchase history, product interaction, advertising data or performance data). For questions, problems or suggestions you can contact us via comment on the App Store or Play Store.
+ 
+This application is made by fans is a third-party app not linked to Repos Production or Sombreros Production.
 
 
 # About
