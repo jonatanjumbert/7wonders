@@ -1,4 +1,4 @@
-# Política de Privacidad
+# Privacy Policy
 
 No info is collected beyond needed for Analytics pourposes like (Coarse Location, device ID, purchase history, product interaction, advertising data or performance data). For questions, problems or suggestions you can contact us via comment on the App Store or Play Store.
  
